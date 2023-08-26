@@ -33,14 +33,14 @@ const sum = (a: number, b: string) => {
 let card: string | number
 card = 23
 card = "jinu"
-card = true
+// card = true
 
 
 // union type
 let isActive: number | boolean
 isActive = true
 isActive = 23
-isActive = "j"
+// isActive = "j"
 
 
 let re = /\w+/g
